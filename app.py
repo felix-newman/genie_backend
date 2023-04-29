@@ -24,32 +24,28 @@ def start_recording():
 
 def stop_recording():
     global audio_frames
-    wavfile.write("audio.wav", audio_samplerate, audio_frames)
+    cwd = Path.cwd()
+
+    wavfile.write(cwd / "audio.wav", audio_samplerate, audio_frames)
 
 
-@app.route("/start_recording", methods=["POST"])
+@app.route("/start_recording", methods=["GET"])
 def start_recording_route():
     start_recording()
-    return "Recording started"
+    return "Recording started", 200
 
 
-@app.route("/stop_recording", methods=["POST"])
+@app.route("/stop_recording", methods=["GET"])
 def stop_recording_route():
     stop_recording()
-    return "Recording stopped"
+    return "Recording stopped", 200
 
 
-@app.route('/api/audio', methods=['PUT'])
+@app.route('/api/audio', methods=['GET'])
 def transcribe_audio():
-    if 'file' not in request.files:
-        return 'No file provided', 400
-    file = request.files['file']
-    if file.filename == '':
-        return 'No file selected', 400
     cwd = Path.cwd()
-    file.save(cwd / 'audio.wav')
 
-    whisper_result = call_whisper('audio.wav')
+    whisper_result = call_whisper(cwd / 'audio.wav')
 
     event_json = json.load(open(cwd / 'events.json', 'r'))
     events = [Event(event=json_event['event'], name=json_event['name'], time=json_event['time'], txt=json_event['txt']) for json_event in
