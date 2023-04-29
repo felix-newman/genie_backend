@@ -1,32 +1,42 @@
 [
-  {
-    "event": "click",
-    "txt": "Login0",
-    "name": "button",
-    "time": 1
-  },
-  {
-    "event": "click",
-    "txt": "Login1",
-    "name": "button",
-    "time": 2
-  },
-  {
-    "event": "click",
-    "txt": "Login2",
-    "name": "button",
-    "time": 3
-  },
-  {
-    "event": "click",
-    "txt": "Login3",
-    "name": "button",
-    "time": 4
-  },
-  {
-    "event": "click",
-    "txt": "Login4",
-    "name": "button",
-    "time": 5
-  }
+    {
+        "event": "click",
+        "id": "",
+        "txt": "…or create a new repository on the command line",
+        "class": "",
+        "tag": "H3",
+        "key": null,
+        "url": "https://github.com/MiscellaneousStuff/taskgenie-event-record",
+        "time": 1.013
+    },
+    {
+        "event": "click",
+        "id": "",
+        "txt": "git commit -m \"first commit\"",
+        "class": "user-select-contain",
+        "tag": "SPAN",
+        "key": null,
+        "url": "https://github.com/MiscellaneousStuff/taskgenie-event-record",
+        "time": 1.7615999999977647
+    },
+    {
+        "event": "click",
+        "id": "",
+        "txt": "…or push an existing repository from the command line",
+        "class": "",
+        "tag": "H3",
+        "key": null,
+        "url": "https://github.com/MiscellaneousStuff/taskgenie-event-record",
+        "time": 2.7465
+    },
+    {
+        "event": "click",
+        "id": "",
+        "txt": "…or import code from another repository",
+        "class": "",
+        "tag": "H3",
+        "key": null,
+        "url": "https://github.com/MiscellaneousStuff/taskgenie-event-record",
+        "time": 3.819599999997765
+    }
 ]
