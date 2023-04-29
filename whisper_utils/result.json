@@ -1,0 +1,1520 @@
+{
+  "text": " but what if somebody decides to break it? Be careful that you keep adequate coverage, but look for places to save money. Maybe it's taking longer to get things squared away than the bankers expected. Hiring the wife for one's company may win her tax-aided retirement income. The boost is helpful, but inadequate. New self-deceiving rags are hurriedly tossed on the two naked bones. What a discussion can ensue when the title of this type of song is in question. There is no dying or waxing or gassing needed. Hyperweight may be personalized on back while clay is leather hard. Place work on a flat surface and smooth out. The simplest kind of separate system uses a single self-contained unit. The old shop adage still holds. A good mechanic is usually a bad boss. Both figures would go higher in later years. Some make beautiful chairs, cabinets, chest, dollhouses, et cetera.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.04,
+      "end": 1.97,
+      "text": " but what if somebody decides to break it?",
+      "tokens": [
+        50363,
+        475,
+        644,
+        611,
+        8276,
+        13267,
+        284,
+        2270,
+        340,
+        30,
+        50461
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1834994034028389,
+      "compression_ratio": 1.6178343949044587,
+      "no_speech_prob": 0.04786813259124756,
+      "confidence": 0.86,
+      "words": [
+        {
+          "text": "but",
+          "start": 0.04,
+          "end": 0.22,
+          "confidence": 0.396
+        },
+        {
+          "text": "what",
+          "start": 0.22,
+          "end": 0.44,
+          "confidence": 0.816
+        },
+        {
+          "text": "if",
+          "start": 0.44,
+          "end": 0.62,
+          "confidence": 0.986
+        },
+        {
+          "text": "somebody",
+          "start": 0.62,
+          "end": 0.9,
+          "confidence": 0.981
+        },
+        {
+          "text": "decides",
+          "start": 0.9,
+          "end": 1.46,
+          "confidence": 0.986
+        },
+        {
+          "text": "to",
+          "start": 1.46,
+          "end": 1.64,
+          "confidence": 0.987
+        },
+        {
+          "text": "break",
+          "start": 1.64,
+          "end": 1.86,
+          "confidence": 0.991
+        },
+        {
+          "text": "it?",
+          "start": 1.86,
+          "end": 1.97,
+          "confidence": 0.993
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 1.97,
+      "end": 4.16,
+      "text": " Be careful that you keep adequate coverage,",
+      "tokens": [
+        50461,
+        1355,
+        8161,
+        326,
+        345,
+        1394,
+        12872,
+        5197,
+        11,
+        50578
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1834994034028389,
+      "compression_ratio": 1.6178343949044587,
+      "no_speech_prob": 0.04786813259124756,
+      "confidence": 0.996,
+      "words": [
+        {
+          "text": "Be",
+          "start": 1.97,
+          "end": 2.18,
+          "confidence": 0.991
+        },
+        {
+          "text": "careful",
+          "start": 2.18,
+          "end": 2.46,
+          "confidence": 1.0
+        },
+        {
+          "text": "that",
+          "start": 2.46,
+          "end": 2.74,
+          "confidence": 0.994
+        },
+        {
+          "text": "you",
+          "start": 2.74,
+          "end": 2.88,
+          "confidence": 0.998
+        },
+        {
+          "text": "keep",
+          "start": 2.88,
+          "end": 3.2,
+          "confidence": 0.997
+        },
+        {
+          "text": "adequate",
+          "start": 3.2,
+          "end": 3.58,
+          "confidence": 0.996
+        },
+        {
+          "text": "coverage,",
+          "start": 3.58,
+          "end": 4.16,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 4.36,
+      "end": 6.19,
+      "text": " but look for places to save money.",
+      "tokens": [
+        50578,
+        475,
+        804,
+        329,
+        4113,
+        284,
+        3613,
+        1637,
+        13,
+        50674
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1834994034028389,
+      "compression_ratio": 1.6178343949044587,
+      "no_speech_prob": 0.04786813259124756,
+      "confidence": 0.998,
+      "words": [
+        {
+          "text": "but",
+          "start": 4.36,
+          "end": 4.56,
+          "confidence": 0.998
+        },
+        {
+          "text": "look",
+          "start": 4.56,
+          "end": 4.76,
+          "confidence": 0.997
+        },
+        {
+          "text": "for",
+          "start": 4.76,
+          "end": 4.94,
+          "confidence": 0.997
+        },
+        {
+          "text": "places",
+          "start": 4.94,
+          "end": 5.36,
+          "confidence": 0.998
+        },
+        {
+          "text": "to",
+          "start": 5.36,
+          "end": 5.66,
+          "confidence": 0.998
+        },
+        {
+          "text": "save",
+          "start": 5.66,
+          "end": 5.96,
+          "confidence": 0.998
+        },
+        {
+          "text": "money.",
+          "start": 5.96,
+          "end": 6.19,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 6.19,
+      "end": 9.44,
+      "text": " Maybe it's taking longer to get things squared away",
+      "tokens": [
+        50674,
+        6674,
+        340,
+        338,
+        2263,
+        2392,
+        284,
+        651,
+        1243,
+        44345,
+        1497,
+        50841
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1834994034028389,
+      "compression_ratio": 1.6178343949044587,
+      "no_speech_prob": 0.04786813259124756,
+      "confidence": 0.971,
+      "words": [
+        {
+          "text": "Maybe",
+          "start": 6.19,
+          "end": 6.62,
+          "confidence": 0.99
+        },
+        {
+          "text": "it's",
+          "start": 6.62,
+          "end": 6.9,
+          "confidence": 0.986
+        },
+        {
+          "text": "taking",
+          "start": 6.9,
+          "end": 7.28,
+          "confidence": 0.986
+        },
+        {
+          "text": "longer",
+          "start": 7.28,
+          "end": 7.7,
+          "confidence": 0.999
+        },
+        {
+          "text": "to",
+          "start": 7.7,
+          "end": 8.0,
+          "confidence": 0.817
+        },
+        {
+          "text": "get",
+          "start": 8.0,
+          "end": 8.3,
+          "confidence": 0.997
+        },
+        {
+          "text": "things",
+          "start": 8.3,
+          "end": 8.72,
+          "confidence": 0.997
+        },
+        {
+          "text": "squared",
+          "start": 8.72,
+          "end": 9.1,
+          "confidence": 0.972
+        },
+        {
+          "text": "away",
+          "start": 9.1,
+          "end": 9.44,
+          "confidence": 0.992
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 9.44,
+      "end": 11.06,
+      "text": " than the bankers expected.",
+      "tokens": [
+        50841,
+        621,
+        262,
+        25091,
+        2938,
+        13,
+        50921
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1834994034028389,
+      "compression_ratio": 1.6178343949044587,
+      "no_speech_prob": 0.04786813259124756,
+      "confidence": 0.858,
+      "words": [
+        {
+          "text": "than",
+          "start": 9.44,
+          "end": 9.88,
+          "confidence": 0.965
+        },
+        {
+          "text": "the",
+          "start": 9.88,
+          "end": 9.98,
+          "confidence": 0.995
+        },
+        {
+          "text": "bankers",
+          "start": 9.98,
+          "end": 10.48,
+          "confidence": 0.57
+        },
+        {
+          "text": "expected.",
+          "start": 10.48,
+          "end": 11.06,
+          "confidence": 0.988
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 11.16,
+      "end": 12.93,
+      "text": " Hiring the wife for one's company",
+      "tokens": [
+        50921,
+        367,
+        3428,
+        262,
+        3656,
+        329,
+        530,
+        338,
+        1664,
+        51013
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1834994034028389,
+      "compression_ratio": 1.6178343949044587,
+      "no_speech_prob": 0.04786813259124756,
+      "confidence": 0.953,
+      "words": [
+        {
+          "text": "Hiring",
+          "start": 11.16,
+          "end": 11.54,
+          "confidence": 0.921
+        },
+        {
+          "text": "the",
+          "start": 11.54,
+          "end": 11.76,
+          "confidence": 0.994
+        },
+        {
+          "text": "wife",
+          "start": 11.76,
+          "end": 12.06,
+          "confidence": 0.992
+        },
+        {
+          "text": "for",
+          "start": 12.06,
+          "end": 12.24,
+          "confidence": 0.916
+        },
+        {
+          "text": "one's",
+          "start": 12.24,
+          "end": 12.56,
+          "confidence": 0.945
+        },
+        {
+          "text": "company",
+          "start": 12.56,
+          "end": 12.93,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 12.93,
+      "end": 15.28,
+      "text": " may win her tax-aided retirement income.",
+      "tokens": [
+        51013,
+        743,
+        1592,
+        607,
+        1687,
+        12,
+        64,
+        1384,
+        10737,
+        3739,
+        13,
+        51133
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1834994034028389,
+      "compression_ratio": 1.6178343949044587,
+      "no_speech_prob": 0.04786813259124756,
+      "confidence": 0.855,
+      "words": [
+        {
+          "text": "may",
+          "start": 12.93,
+          "end": 13.2,
+          "confidence": 0.985
+        },
+        {
+          "text": "win",
+          "start": 13.2,
+          "end": 13.46,
+          "confidence": 0.979
+        },
+        {
+          "text": "her",
+          "start": 13.46,
+          "end": 13.7,
+          "confidence": 0.997
+        },
+        {
+          "text": "tax-aided",
+          "start": 13.7,
+          "end": 14.3,
+          "confidence": 0.79
+        },
+        {
+          "text": "retirement",
+          "start": 14.3,
+          "end": 14.84,
+          "confidence": 0.998
+        },
+        {
+          "text": "income.",
+          "start": 14.84,
+          "end": 15.28,
+          "confidence": 0.654
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 15.42,
+      "end": 17.4,
+      "text": " The boost is helpful, but inadequate.",
+      "tokens": [
+        51133,
+        383,
+        5750,
+        318,
+        7613,
+        11,
+        475,
+        20577,
+        13,
+        51239
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1834994034028389,
+      "compression_ratio": 1.6178343949044587,
+      "no_speech_prob": 0.04786813259124756,
+      "confidence": 0.978,
+      "words": [
+        {
+          "text": "The",
+          "start": 15.42,
+          "end": 15.58,
+          "confidence": 0.995
+        },
+        {
+          "text": "boost",
+          "start": 15.58,
+          "end": 15.92,
+          "confidence": 0.923
+        },
+        {
+          "text": "is",
+          "start": 15.92,
+          "end": 16.2,
+          "confidence": 0.997
+        },
+        {
+          "text": "helpful,",
+          "start": 16.2,
+          "end": 16.66,
+          "confidence": 0.998
+        },
+        {
+          "text": "but",
+          "start": 16.8,
+          "end": 17.02,
+          "confidence": 0.96
+        },
+        {
+          "text": "inadequate.",
+          "start": 17.02,
+          "end": 17.4,
+          "confidence": 0.995
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 17.54,
+      "end": 20.27,
+      "text": " New self-deceiving rags are hurriedly tossed",
+      "tokens": [
+        51239,
+        968,
+        2116,
+        12,
+        2934,
+        344,
+        1412,
+        374,
+        3775,
+        389,
+        31662,
+        306,
+        22591,
+        51379
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1834994034028389,
+      "compression_ratio": 1.6178343949044587,
+      "no_speech_prob": 0.04786813259124756,
+      "confidence": 0.783,
+      "words": [
+        {
+          "text": "New",
+          "start": 17.54,
+          "end": 17.82,
+          "confidence": 0.952
+        },
+        {
+          "text": "self-deceiving",
+          "start": 17.82,
+          "end": 18.66,
+          "confidence": 0.736
+        },
+        {
+          "text": "rags",
+          "start": 18.66,
+          "end": 19.08,
+          "confidence": 0.913
+        },
+        {
+          "text": "are",
+          "start": 19.08,
+          "end": 19.3,
+          "confidence": 0.902
+        },
+        {
+          "text": "hurriedly",
+          "start": 19.3,
+          "end": 19.88,
+          "confidence": 0.632
+        },
+        {
+          "text": "tossed",
+          "start": 19.88,
+          "end": 20.27,
+          "confidence": 0.86
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 20.27,
+      "end": 21.66,
+      "text": " on the two naked bones.",
+      "tokens": [
+        51379,
+        319,
+        262,
+        734,
+        12105,
+        11945,
+        13,
+        51451
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1834994034028389,
+      "compression_ratio": 1.6178343949044587,
+      "no_speech_prob": 0.04786813259124756,
+      "confidence": 0.956,
+      "words": [
+        {
+          "text": "on",
+          "start": 20.27,
+          "end": 20.54,
+          "confidence": 0.998
+        },
+        {
+          "text": "the",
+          "start": 20.54,
+          "end": 20.66,
+          "confidence": 0.96
+        },
+        {
+          "text": "two",
+          "start": 20.66,
+          "end": 20.84,
+          "confidence": 0.89
+        },
+        {
+          "text": "naked",
+          "start": 20.84,
+          "end": 21.2,
+          "confidence": 0.948
+        },
+        {
+          "text": "bones.",
+          "start": 21.2,
+          "end": 21.66,
+          "confidence": 0.989
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 21.78,
+      "end": 23.38,
+      "text": " What a discussion can ensue",
+      "tokens": [
+        51451,
+        1867,
+        257,
+        5114,
+        460,
+        3140,
+        518,
+        51533
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1834994034028389,
+      "compression_ratio": 1.6178343949044587,
+      "no_speech_prob": 0.04786813259124756,
+      "confidence": 0.897,
+      "words": [
+        {
+          "text": "What",
+          "start": 21.78,
+          "end": 22.0,
+          "confidence": 0.995
+        },
+        {
+          "text": "a",
+          "start": 22.0,
+          "end": 22.18,
+          "confidence": 0.999
+        },
+        {
+          "text": "discussion",
+          "start": 22.18,
+          "end": 22.64,
+          "confidence": 0.95
+        },
+        {
+          "text": "can",
+          "start": 22.64,
+          "end": 22.92,
+          "confidence": 0.705
+        },
+        {
+          "text": "ensue",
+          "start": 22.92,
+          "end": 23.38,
+          "confidence": 0.884
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 0,
+      "start": 23.38,
+      "end": 26.02,
+      "text": " when the title of this type of song is in question.",
+      "tokens": [
+        51533,
+        618,
+        262,
+        3670,
+        286,
+        428,
+        2099,
+        286,
+        3496,
+        318,
+        287,
+        1808,
+        13,
+        51667
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1834994034028389,
+      "compression_ratio": 1.6178343949044587,
+      "no_speech_prob": 0.04786813259124756,
+      "confidence": 0.994,
+      "words": [
+        {
+          "text": "when",
+          "start": 23.38,
+          "end": 23.66,
+          "confidence": 0.993
+        },
+        {
+          "text": "the",
+          "start": 23.66,
+          "end": 23.78,
+          "confidence": 0.998
+        },
+        {
+          "text": "title",
+          "start": 23.78,
+          "end": 24.08,
+          "confidence": 0.998
+        },
+        {
+          "text": "of",
+          "start": 24.08,
+          "end": 24.28,
+          "confidence": 0.999
+        },
+        {
+          "text": "this",
+          "start": 24.28,
+          "end": 24.48,
+          "confidence": 0.992
+        },
+        {
+          "text": "type",
+          "start": 24.48,
+          "end": 24.78,
+          "confidence": 0.998
+        },
+        {
+          "text": "of",
+          "start": 24.78,
+          "end": 24.96,
+          "confidence": 0.997
+        },
+        {
+          "text": "song",
+          "start": 24.96,
+          "end": 25.32,
+          "confidence": 0.997
+        },
+        {
+          "text": "is",
+          "start": 25.32,
+          "end": 25.54,
+          "confidence": 0.975
+        },
+        {
+          "text": "in",
+          "start": 25.54,
+          "end": 25.72,
+          "confidence": 0.998
+        },
+        {
+          "text": "question.",
+          "start": 25.72,
+          "end": 26.02,
+          "confidence": 0.993
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 0,
+      "start": 26.02,
+      "end": 28.52,
+      "text": " There is no dying or waxing or gassing needed.",
+      "tokens": [
+        51667,
+        1318,
+        318,
+        645,
+        9950,
+        393,
+        20302,
+        278,
+        393,
+        308,
+        19696,
+        2622,
+        13,
+        51791
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1834994034028389,
+      "compression_ratio": 1.6178343949044587,
+      "no_speech_prob": 0.04786813259124756,
+      "confidence": 0.86,
+      "words": [
+        {
+          "text": "There",
+          "start": 26.02,
+          "end": 26.26,
+          "confidence": 0.986
+        },
+        {
+          "text": "is",
+          "start": 26.26,
+          "end": 26.38,
+          "confidence": 0.753
+        },
+        {
+          "text": "no",
+          "start": 26.38,
+          "end": 26.52,
+          "confidence": 0.999
+        },
+        {
+          "text": "dying",
+          "start": 26.52,
+          "end": 26.9,
+          "confidence": 0.925
+        },
+        {
+          "text": "or",
+          "start": 26.9,
+          "end": 27.12,
+          "confidence": 0.949
+        },
+        {
+          "text": "waxing",
+          "start": 27.12,
+          "end": 27.68,
+          "confidence": 0.959
+        },
+        {
+          "text": "or",
+          "start": 27.68,
+          "end": 27.84,
+          "confidence": 0.827
+        },
+        {
+          "text": "gassing",
+          "start": 27.84,
+          "end": 28.24,
+          "confidence": 0.643
+        },
+        {
+          "text": "needed.",
+          "start": 28.24,
+          "end": 28.52,
+          "confidence": 0.928
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 2856,
+      "start": 28.56,
+      "end": 30.91,
+      "text": " Hyperweight may be personalized on back",
+      "tokens": [
+        50365,
+        15079,
+        6551,
+        743,
+        307,
+        28949,
+        319,
+        736,
+        50483
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22401288476320777,
+      "compression_ratio": 1.4959349593495934,
+      "no_speech_prob": 0.11671555042266846,
+      "confidence": 0.705,
+      "words": [
+        {
+          "text": "Hyperweight",
+          "start": 28.56,
+          "end": 29.16,
+          "confidence": 0.647
+        },
+        {
+          "text": "may",
+          "start": 29.16,
+          "end": 29.4,
+          "confidence": 0.857
+        },
+        {
+          "text": "be",
+          "start": 29.4,
+          "end": 29.62,
+          "confidence": 0.993
+        },
+        {
+          "text": "personalized",
+          "start": 29.62,
+          "end": 30.28,
+          "confidence": 0.965
+        },
+        {
+          "text": "on",
+          "start": 30.28,
+          "end": 30.58,
+          "confidence": 0.591
+        },
+        {
+          "text": "back",
+          "start": 30.58,
+          "end": 30.91,
+          "confidence": 0.426
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 2856,
+      "start": 30.91,
+      "end": 32.28,
+      "text": " while clay is leather hard.",
+      "tokens": [
+        50483,
+        981,
+        21558,
+        318,
+        11620,
+        1327,
+        13,
+        50553
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22401288476320777,
+      "compression_ratio": 1.4959349593495934,
+      "no_speech_prob": 0.11671555042266846,
+      "confidence": 0.884,
+      "words": [
+        {
+          "text": "while",
+          "start": 30.91,
+          "end": 31.24,
+          "confidence": 0.992
+        },
+        {
+          "text": "clay",
+          "start": 31.24,
+          "end": 31.52,
+          "confidence": 0.899
+        },
+        {
+          "text": "is",
+          "start": 31.52,
+          "end": 31.72,
+          "confidence": 0.873
+        },
+        {
+          "text": "leather",
+          "start": 31.72,
+          "end": 32.02,
+          "confidence": 0.959
+        },
+        {
+          "text": "hard.",
+          "start": 32.02,
+          "end": 32.28,
+          "confidence": 0.724
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 2856,
+      "start": 32.34,
+      "end": 35.22,
+      "text": " Place work on a flat surface and smooth out.",
+      "tokens": [
+        50553,
+        8474,
+        670,
+        319,
+        257,
+        6228,
+        4417,
+        290,
+        7209,
+        503,
+        13,
+        50699
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22401288476320777,
+      "compression_ratio": 1.4959349593495934,
+      "no_speech_prob": 0.11671555042266846,
+      "confidence": 0.966,
+      "words": [
+        {
+          "text": "Place",
+          "start": 32.34,
+          "end": 32.74,
+          "confidence": 0.932
+        },
+        {
+          "text": "work",
+          "start": 32.74,
+          "end": 33.06,
+          "confidence": 0.99
+        },
+        {
+          "text": "on",
+          "start": 33.06,
+          "end": 33.26,
+          "confidence": 0.998
+        },
+        {
+          "text": "a",
+          "start": 33.26,
+          "end": 33.42,
+          "confidence": 0.955
+        },
+        {
+          "text": "flat",
+          "start": 33.42,
+          "end": 33.78,
+          "confidence": 0.999
+        },
+        {
+          "text": "surface",
+          "start": 33.78,
+          "end": 34.24,
+          "confidence": 0.999
+        },
+        {
+          "text": "and",
+          "start": 34.24,
+          "end": 34.54,
+          "confidence": 0.888
+        },
+        {
+          "text": "smooth",
+          "start": 34.54,
+          "end": 34.92,
+          "confidence": 0.992
+        },
+        {
+          "text": "out.",
+          "start": 34.92,
+          "end": 35.22,
+          "confidence": 0.946
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 2856,
+      "start": 35.24,
+      "end": 37.5,
+      "text": " The simplest kind of separate system",
+      "tokens": [
+        50699,
+        383,
+        24043,
+        1611,
+        286,
+        4553,
+        1080,
+        50809
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22401288476320777,
+      "compression_ratio": 1.4959349593495934,
+      "no_speech_prob": 0.11671555042266846,
+      "confidence": 0.981,
+      "words": [
+        {
+          "text": "The",
+          "start": 35.24,
+          "end": 35.5,
+          "confidence": 0.975
+        },
+        {
+          "text": "simplest",
+          "start": 35.5,
+          "end": 36.0,
+          "confidence": 0.959
+        },
+        {
+          "text": "kind",
+          "start": 36.0,
+          "end": 36.4,
+          "confidence": 0.993
+        },
+        {
+          "text": "of",
+          "start": 36.4,
+          "end": 36.58,
+          "confidence": 0.989
+        },
+        {
+          "text": "separate",
+          "start": 36.58,
+          "end": 37.02,
+          "confidence": 0.987
+        },
+        {
+          "text": "system",
+          "start": 37.02,
+          "end": 37.5,
+          "confidence": 0.986
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 2856,
+      "start": 37.5,
+      "end": 40.08,
+      "text": " uses a single self-contained unit.",
+      "tokens": [
+        50809,
+        3544,
+        257,
+        2060,
+        2116,
+        12,
+        45964,
+        4326,
+        13,
+        50945
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22401288476320777,
+      "compression_ratio": 1.4959349593495934,
+      "no_speech_prob": 0.11671555042266846,
+      "confidence": 0.986,
+      "words": [
+        {
+          "text": "uses",
+          "start": 37.5,
+          "end": 37.9,
+          "confidence": 0.998
+        },
+        {
+          "text": "a",
+          "start": 37.9,
+          "end": 38.28,
+          "confidence": 0.999
+        },
+        {
+          "text": "single",
+          "start": 38.28,
+          "end": 38.68,
+          "confidence": 0.999
+        },
+        {
+          "text": "self-contained",
+          "start": 38.68,
+          "end": 39.66,
+          "confidence": 0.97
+        },
+        {
+          "text": "unit.",
+          "start": 39.66,
+          "end": 40.08,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 2856,
+      "start": 40.14,
+      "end": 41.92,
+      "text": " The old shop adage still holds.",
+      "tokens": [
+        50945,
+        383,
+        1468,
+        6128,
+        512,
+        496,
+        991,
+        6622,
+        13,
+        51051
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22401288476320777,
+      "compression_ratio": 1.4959349593495934,
+      "no_speech_prob": 0.11671555042266846,
+      "confidence": 0.817,
+      "words": [
+        {
+          "text": "The",
+          "start": 40.14,
+          "end": 40.38,
+          "confidence": 0.998
+        },
+        {
+          "text": "old",
+          "start": 40.38,
+          "end": 40.64,
+          "confidence": 0.997
+        },
+        {
+          "text": "shop",
+          "start": 40.64,
+          "end": 40.92,
+          "confidence": 0.915
+        },
+        {
+          "text": "adage",
+          "start": 40.92,
+          "end": 41.3,
+          "confidence": 0.522
+        },
+        {
+          "text": "still",
+          "start": 41.3,
+          "end": 41.56,
+          "confidence": 0.994
+        },
+        {
+          "text": "holds.",
+          "start": 41.56,
+          "end": 41.92,
+          "confidence": 0.987
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 2856,
+      "start": 42.26,
+      "end": 44.38,
+      "text": " A good mechanic is usually a bad boss.",
+      "tokens": [
+        51051,
+        317,
+        922,
+        21600,
+        318,
+        3221,
+        257,
+        2089,
+        6478,
+        13,
+        51157
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22401288476320777,
+      "compression_ratio": 1.4959349593495934,
+      "no_speech_prob": 0.11671555042266846,
+      "confidence": 0.997,
+      "words": [
+        {
+          "text": "A",
+          "start": 42.26,
+          "end": 42.5,
+          "confidence": 0.998
+        },
+        {
+          "text": "good",
+          "start": 42.5,
+          "end": 42.7,
+          "confidence": 0.999
+        },
+        {
+          "text": "mechanic",
+          "start": 42.7,
+          "end": 43.06,
+          "confidence": 0.998
+        },
+        {
+          "text": "is",
+          "start": 43.06,
+          "end": 43.3,
+          "confidence": 0.989
+        },
+        {
+          "text": "usually",
+          "start": 43.3,
+          "end": 43.66,
+          "confidence": 0.996
+        },
+        {
+          "text": "a",
+          "start": 43.66,
+          "end": 43.88,
+          "confidence": 0.997
+        },
+        {
+          "text": "bad",
+          "start": 43.88,
+          "end": 44.04,
+          "confidence": 0.997
+        },
+        {
+          "text": "boss.",
+          "start": 44.04,
+          "end": 44.38,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 2856,
+      "start": 44.4,
+      "end": 46.9,
+      "text": " Both figures would go higher in later years.",
+      "tokens": [
+        51157,
+        5747,
+        5538,
+        561,
+        467,
+        2440,
+        287,
+        1568,
+        812,
+        13,
+        51287
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22401288476320777,
+      "compression_ratio": 1.4959349593495934,
+      "no_speech_prob": 0.11671555042266846,
+      "confidence": 0.944,
+      "words": [
+        {
+          "text": "Both",
+          "start": 44.4,
+          "end": 44.76,
+          "confidence": 0.988
+        },
+        {
+          "text": "figures",
+          "start": 44.76,
+          "end": 45.2,
+          "confidence": 0.995
+        },
+        {
+          "text": "would",
+          "start": 45.2,
+          "end": 45.46,
+          "confidence": 0.993
+        },
+        {
+          "text": "go",
+          "start": 45.46,
+          "end": 45.68,
+          "confidence": 0.989
+        },
+        {
+          "text": "higher",
+          "start": 45.68,
+          "end": 46.02,
+          "confidence": 0.701
+        },
+        {
+          "text": "in",
+          "start": 46.02,
+          "end": 46.26,
+          "confidence": 0.968
+        },
+        {
+          "text": "later",
+          "start": 46.26,
+          "end": 46.56,
+          "confidence": 0.973
+        },
+        {
+          "text": "years.",
+          "start": 46.56,
+          "end": 46.9,
+          "confidence": 0.985
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 2856,
+      "start": 47.12,
+      "end": 49.86,
+      "text": " Some make beautiful chairs, cabinets, chest,",
+      "tokens": [
+        51287,
+        2773,
+        787,
+        4950,
+        18791,
+        11,
+        43064,
+        11,
+        7721,
+        11,
+        51427
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22401288476320777,
+      "compression_ratio": 1.4959349593495934,
+      "no_speech_prob": 0.11671555042266846,
+      "confidence": 0.935,
+      "words": [
+        {
+          "text": "Some",
+          "start": 47.12,
+          "end": 47.4,
+          "confidence": 0.992
+        },
+        {
+          "text": "make",
+          "start": 47.4,
+          "end": 47.58,
+          "confidence": 0.996
+        },
+        {
+          "text": "beautiful",
+          "start": 47.58,
+          "end": 48.04,
+          "confidence": 0.997
+        },
+        {
+          "text": "chairs,",
+          "start": 48.04,
+          "end": 48.58,
+          "confidence": 0.986
+        },
+        {
+          "text": "cabinets,",
+          "start": 48.72,
+          "end": 49.22,
+          "confidence": 0.987
+        },
+        {
+          "text": "chest,",
+          "start": 49.44,
+          "end": 49.86,
+          "confidence": 0.697
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 2856,
+      "start": 49.86,
+      "end": 51.1,
+      "text": " dollhouses, et cetera.",
+      "tokens": [
+        51427,
+        3654,
+        20089,
+        11,
+        2123,
+        269,
+        2357,
+        64,
+        13,
+        51497
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22401288476320777,
+      "compression_ratio": 1.4959349593495934,
+      "no_speech_prob": 0.11671555042266846,
+      "confidence": 0.721,
+      "words": [
+        {
+          "text": "dollhouses,",
+          "start": 49.86,
+          "end": 50.52,
+          "confidence": 0.409
+        },
+        {
+          "text": "et",
+          "start": 50.74,
+          "end": 50.8,
+          "confidence": 0.844
+        },
+        {
+          "text": "cetera.",
+          "start": 50.8,
+          "end": 51.1,
+          "confidence": 0.998
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}
