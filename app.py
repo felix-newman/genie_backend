@@ -1,4 +1,5 @@
-import dataclasses
+import sounddevice as sd
+import scipy.io.wavfile as wavfile
 
 from flask import Flask, request
 from pathlib import Path
@@ -9,6 +10,33 @@ from whisper_utils.whisper_utils import call_whisper, create_audio_event_matchin
 
 app = Flask(__name__)
 app.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024  # 16 MB
+
+audio_frames = []
+audio_samplerate = 44100
+audio_channels = 1
+audio_duration = 5
+
+
+def start_recording():
+    global audio_frames
+    audio_frames = sd.rec(int(audio_samplerate * audio_duration), samplerate=audio_samplerate, channels=audio_channels)
+
+
+def stop_recording():
+    global audio_frames
+    wavfile.write("audio.wav", audio_samplerate, audio_frames)
+
+
+@app.route("/start_recording", methods=["POST"])
+def start_recording_route():
+    start_recording()
+    return "Recording started"
+
+
+@app.route("/stop_recording", methods=["POST"])
+def stop_recording_route():
+    stop_recording()
+    return "Recording stopped"
 
 
 @app.route('/api/audio', methods=['PUT'])
@@ -30,6 +58,9 @@ def transcribe_audio():
     event_matchings = create_audio_event_matching(whisper_result, events)
     json_data = json.dumps(event_matchings, cls=DataClassEncoder)
 
+    with open(cwd / 'event_matching.json', 'w') as f:
+        json.dump(json_data, f)
+
     return json_data, 200
 
 
@@ -42,6 +73,14 @@ def save_events():
     with open(cwd / 'events.json', 'w') as f:
         json.dump(data, f)
     return 'JSON data saved successfully', 200
+
+
+@app.route('/api/events', methods=['GET'])
+def get_events():
+    cwd = Path.cwd()
+    with open(cwd / 'event_matching.json', 'r') as f:
+        data = json.load(f)
+    return data, 200
 
 
 if __name__ == '__main__':
